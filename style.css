@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #2a8cb7;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+.portada img{
+  height: 400px;
+}
+.titulo p{
+  font-size: 50px;
+  color: white;
+  font-family: 'forte';
+}
+.enlace p{
+  font-size: 30px;
+  color: white;
+  font-family: 'forte';
+}
+.titulo2 p{
+  font-size: 60px;
+  color: white;
+  font-family: 'buxton sketch';
+}
+.subtitulo p{
+  font-size: 40px;
+  color: white;
+  font-family: 'buxton sketch';
+}
+.resumen p{
+  font-size: 30px;
+  color: white;
+  font-family: 'buxton sketch';
+  margin: 50px;
+}
+.resumen img{
+  height: 300px;
+}
